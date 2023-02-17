@@ -1,12 +1,11 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
-
 /**
- * main - Prints random number.
+ * main - Entry point
  *
- * Retun: Always 0.
-*/
+ * Return: Always 0 (Success)
+ */
 int main(void)
 {
 	int n;
